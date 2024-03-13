@@ -1,8 +1,5 @@
 package average;
-/*
-NAME: Sibekezelo Khumalo
-Student NO: 230107974
-*/
+
 import java.util.*;
 
 public class Average{
